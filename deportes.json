@@ -1,0 +1,12 @@
+{
+  "deportes": [
+    {
+      "nombre": "futbol",
+      "precio": "50000"
+    },
+    {
+      "nombre": "futbol",
+      "precio": "6000"
+    }
+  ]
+}
